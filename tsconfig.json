@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "module": "commonjs",
+    "lib": ["ES2019"],
+    "outDir": "dist",
+    "moduleResolution": "node"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "planning-center",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "13.13.5",
+    "dotenv": "8.2.0"
+  },
+  "prettier": {
+    "singleQuote": true
+  }
+}

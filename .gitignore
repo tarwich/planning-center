@@ -1,0 +1,7 @@
+node_modules
+**/*.local.*
+**/*.local
+dist
+bin
+.cache
+.env
